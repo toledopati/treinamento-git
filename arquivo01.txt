@@ -1,9 +1,9 @@
 
 linha dois inserida on-line
-<<<<<<< HEAD
-Testa
-=======
+
+Teste
+
 alteração
->>>>>>> a36a3ced161aa2853a664aa8404844ed07f5f966
+
 linha 4 inserida on-line
 
